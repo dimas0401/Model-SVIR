@@ -25,9 +25,6 @@ jupyter notebook
 ## Kontribusi
 Kontribusi dalam bentuk laporan bug, permintaan fitur, atau peningkatan kode sangat dipersilakan. Silakan buka isu (issue) atau kirimkan permintaan tarik (pull request).
 
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
 ## Penulis
 Proyek ini dikembangkan oleh Dimas Firmansyah.
 

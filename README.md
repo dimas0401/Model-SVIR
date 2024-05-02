@@ -22,9 +22,6 @@ jupyter notebook
 4. Buka notebook `penelitian_penyakit.ipynb` dengan Jupyter.
 5. Jalankan semua sel atau sesuaikan parameter simulasi sesuai kebutuhan Anda.
 
-## Kontribusi
-Kontribusi dalam bentuk laporan bug, permintaan fitur, atau peningkatan kode sangat dipersilakan. Silakan buka isu (issue) atau kirimkan permintaan tarik (pull request).
-
 ## Penulis
 Proyek ini dikembangkan oleh Dimas Firmansyah.
 

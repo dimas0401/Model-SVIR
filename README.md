@@ -3,6 +3,8 @@
 ## Deskripsi
 Proyek ini merupakan simulasi pemodelan matematika untuk memprediksi dan menganalisis penyebaran penyakit menggunakan model SVIR (Susceptible-Vaccinated-Infectious-Recovered). Model SVIR adalah model epidemiologi yang membagi populasi menjadi empat kompartemen: individu yang rentan (Susceptible), individu yang divaksinasi (Vaccinated), individu yang terinfeksi (Infectious), dan individu yang sembuh atau sudah terkena imun (Recovered).
 
+https://jurnal.untan.ac.id/index.php/jbmstr/article/view/77708
+
 ## Instalasi
 1. Pastikan Anda telah menginstal Python versi 3.x.
 2. Instal pustaka-pustaka yang diperlukan dengan menggunakan pip:
